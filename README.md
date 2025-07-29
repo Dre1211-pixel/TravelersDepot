@@ -1,5 +1,4 @@
 # 旅人集所 TravelersDepot｜旅人裝備電商平台<br>
-This READme is in Chinese, click here for the English version<br>
 旅人集所 (Travelers Depot) 是一個專為旅人打造的旅行裝備電商平台，包含前台購物流程與後台管理系統。 支援商品瀏覽、打包清單、購物車、結帳流程、與後台商品管理、訂單管理、優惠券管理功能，並於前台和後台登入頁實作響應式設計。<br>
 
 👉 [🔗 前台線上Demo](https://dre1211-pixel.github.io/TravelersDepot/#/)<br>
